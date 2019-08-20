@@ -1,0 +1,11 @@
+{
+  "name": "sot-eslint-prettier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Alessio Di Crescenzo",
+  "license": "ISC"
+}
