@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "eslint": "eslint src --ext js"
+    "eslint": "eslint src --ext js",
+    "eslint:fix": "eslint --fix src --ext js"
   },
   "author": "Alessio Di Crescenzo",
   "license": "ISC",
